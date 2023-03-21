@@ -1,0 +1,49 @@
+.cabecalho{
+    background-color:  #141E37;
+    
+}
+
+.cabecalho-titulo1{
+    color: white;
+    display: flex;
+    justify-content: flex-start;
+}
+
+.cabecalho-lista{
+    color: white;
+    display: flex;
+    justify-content: flex-end;    
+}
+
+.cabecalho-lista-item1{
+    color: white;
+    padding: 20px;
+    margin-right: 5px;
+     
+
+}
+.cabecalho-lista-item2{
+    color: white;
+    padding: 20px;
+    margin-left: 5px;
+ 
+
+}
+.cabecalho-titulo2{
+    color: black;
+    display: flex;
+    font-size: 30px;
+    
+}
+
+/* Seção-login-usuário */
+
+position: absolute;
+width: 665px;
+height: 91px;
+left: 775px;
+top: 0px;
+
+background: #141E37;
+
+
