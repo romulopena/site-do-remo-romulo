@@ -44,10 +44,11 @@
 }
 
 .socios{
-    margin: 20px; 
+    
     background-image: linear-gradient(#051437,#a1a7b6);
     color: white;
     display: inline-flex;
+    
     
 }
 .nomes{
