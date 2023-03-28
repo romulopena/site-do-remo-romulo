@@ -44,13 +44,29 @@
 }
 
 .socios{
-    background-image: linear-gradient(#051437,#141E37);
+    margin: 20px; 
+    background-image: linear-gradient(#051437,#a1a7b6);
     color: white;
+    display: inline-flex;
+    
+}
+.nomes{
+    display: inline;
     
 }
 
 .foto-romulo{
-    width: 5%;
+    width: 40%;
+    
+}
+.foto-augusto{
+    width: 40%;
+}
+.foto-gilmar{
+    width: 40%;
+}
+.git{
+    width: 20%;
 }
 
 
