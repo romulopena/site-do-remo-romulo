@@ -1,3 +1,7 @@
+*{
+    padding: 0;
+    margin: 0;
+}
 .cabecalho{
     background-color:  #141E37;
     
@@ -30,20 +34,23 @@
 
 }
 .cabecalho-titulo2{
+    border: 5px solid; 
+    border-color: white;
     color: black;
     display: flex;
     font-size: 30px;
+    padding-left: 100px;
     
 }
 
-/* Seção-login-usuário */
+.socios{
+    background-image: linear-gradient(#051437,#141E37);
+    color: white;
+    
+}
 
-position: absolute;
-width: 665px;
-height: 91px;
-left: 775px;
-top: 0px;
-
-background: #141E37;
+.foto-romulo{
+    width: 5%;
+}
 
 
