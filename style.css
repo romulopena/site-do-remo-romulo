@@ -49,22 +49,31 @@
     color: white;
     display: inline-flex;
     
-    
+}
+.socios-torcedores{
+    padding:50px 100px 50px 50px;
+
 }
 .nomes{
     display: inline;
+    padding-top: 50px;
     
 }
 
 .foto-romulo{
-    width: 40%;
-    
+    width: 30%;
+    padding-top: 70px;
+    margin-left: -50px;
 }
 .foto-augusto{
-    width: 40%;
+    width: 30%;
+    padding-top: 70px;
+    margin-left: -50px;
 }
 .foto-gilmar{
-    width: 40%;
+    width: 30%;
+    padding-top: 70px;
+    margin-left: -50px;
 }
 .git{
     width: 20%;
