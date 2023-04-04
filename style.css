@@ -2,6 +2,7 @@
     padding: 0;
     margin: 0;
 }
+
 .cabecalho{
     background-color:  #141E37;
     
@@ -43,17 +44,28 @@
     
 }
 
+.historia{
+    background-image: linear-gradient(#051437,#a1a7b6);
+    padding: 70px;
+}
+
+.paragrafo-historia{
+    padding: 20px 70px;
+}
+
 .socios{
     
-    background-image: linear-gradient(#051437,#a1a7b6);
+    background-image: linear-gradient(#a1a7b6, #051437);
     color: white;
     display: inline-flex;
     
 }
+
 .socios-torcedores{
     padding:50px 100px 50px 50px;
 
 }
+
 .nomes{
     display: inline;
     padding-top: 50px;
@@ -65,16 +77,19 @@
     padding-top: 70px;
     margin-left: -50px;
 }
+
 .foto-augusto{
     width: 30%;
     padding-top: 70px;
     margin-left: -50px;
 }
+
 .foto-gilmar{
     width: 30%;
     padding-top: 70px;
     margin-left: -50px;
 }
+
 .git{
     width: 20%;
 }
