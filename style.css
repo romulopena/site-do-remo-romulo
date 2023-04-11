@@ -61,7 +61,8 @@
     
     background-image: linear-gradient(#a1a7b6, #051437);
     color: white;
-    display: inline-flex;
+    display: flex;
+    justify-content: center;
     font-family: sans;
     font-family: 'Chonburi', cursive;
     
@@ -72,34 +73,39 @@
 
 }
 
-.nomes{
-    display: inline;
-    padding-top: 50px;
+.div-maior{
+    display: grid;
+    grid-template-columns: 25% 25% 25% 25%;
     
-}
-
-
-.foto-romulo{
-    width: 30%;
-    padding-top: 70px;
-    margin-left: -50px;
-}
-
-.foto-augusto{
-    width: 30%;
-    padding-top: 70px;
-    margin-left: -50px;
-}
-
-.foto-gilmar{
-    width: 30%;
-    padding-top: 70px;
-    margin-left: -50px;
-}
-
-.git{
-    width: 20%;
+    justify-content: center;
+    padding: 0;
 
 }
 
+.titulo-socios-torcedores{
+    text-align: justify;
+    flex-wrap: wrap;
+}
 
+.div-conteudo-socio{
+    text-align: center;
+    display: inline-grid;
+
+}
+
+.nomes-socio{
+
+}
+
+.foto-socio{
+    width: 100px;
+    height: 140px;
+    padding-left: 40px;
+
+}
+
+.github-icon{
+    width: 40px;
+    margin-top: 10px;
+    display:
+}
