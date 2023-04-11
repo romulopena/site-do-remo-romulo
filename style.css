@@ -3,6 +3,10 @@
     margin: 0;
 }
 
+{
+    font-family: sans-serif;
+    font-family: 'Chonburi', cursive;
+}
 .cabecalho{
     background-color:  #141E37;
     
@@ -58,6 +62,8 @@
     background-image: linear-gradient(#a1a7b6, #051437);
     color: white;
     display: inline-flex;
+    font-family: sans;
+    font-family: 'Chonburi', cursive;
     
 }
 
