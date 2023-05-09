@@ -41,7 +41,7 @@ body{
 .cabecalho-titulo2{
     border: 5px solid; 
     border-color: white;
-    color: white;
+    color: orange;
     display: flex;
     font-size: 30px;
     padding-left: 100px;
